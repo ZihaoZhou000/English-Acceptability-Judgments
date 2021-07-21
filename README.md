@@ -1,4 +1,4 @@
-# English-Acceptability-Judgments-
+# English-Acceptability-Judgments
 
 Dataset: https://huggingface.co/datasets/glue#cola
 
